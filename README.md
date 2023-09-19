@@ -2,21 +2,14 @@
 <h3 align="center">MERN stack developer with a passion for building websites and applications with UI/UX. You can see what I am up to on my GitHub.</h3>
 
 
-- 🔭 I’m currently working on **MyApp**
-
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👯 I’m looking to collaborate on **Any project**
-
 - 👨‍💻 All of my projects are available at [dwikypm.me](dwikypm.me)
-
-- 📝 I regularly write articles on [blog.dwikypm.me](blog.dwikypm.me)
 
 - 💬 Ask me about **react,vue, elixir**
 
 - 📫 How to reach me **dwikiprias@gmail.com**
 
-- ⚡ Fun fact **A results-driven, enthusiastic, creative Web Developer with excellent communication skills, ready to give my best to achieve remarkable outcomes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
