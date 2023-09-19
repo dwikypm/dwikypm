@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dwiky Prias Marliansah</h1>
 <h3 align="center">MERN stack developer with a passion for building websites and applications with UI/UX. You can see what I am up to on my GitHub.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dwikypm&label=Profile%20views&color=0e75b6&style=flat" alt="dwikypm" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwikypm" alt="dwikypm" /></a> </p>
 
 - 🔭 I’m currently working on **MyApp**
 
